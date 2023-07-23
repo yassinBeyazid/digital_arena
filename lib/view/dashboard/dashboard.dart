@@ -52,7 +52,7 @@ class Dashboard extends StatelessWidget {
                 child: Center(
                   child: Padding(
                     padding: const EdgeInsets.all(8.0),
-                    child: Text('Page 1',style: TextStyle(
+                    child: Text('Page 2',style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
                         fontFamily: AppConstants.appFont,
@@ -75,7 +75,7 @@ class Dashboard extends StatelessWidget {
                 child: Center(
                   child: Padding(
                     padding: const EdgeInsets.all(8.0),
-                    child: Text('Page 1',style: TextStyle(
+                    child: Text('Page 3',style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
                         fontFamily: AppConstants.appFont,
@@ -98,7 +98,7 @@ class Dashboard extends StatelessWidget {
                 child: Center(
                   child: Padding(
                     padding: const EdgeInsets.all(8.0),
-                    child: Text('Page 1',style: TextStyle(
+                    child: Text('Page 4',style: TextStyle(
                         fontSize: 24,
                         fontWeight: FontWeight.bold,
                         fontFamily: AppConstants.appFont,
